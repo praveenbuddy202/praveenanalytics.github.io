@@ -112,7 +112,7 @@ My goal is to start my career as a **Data Analyst / Business Intelligence Analys
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn URL here](YOUR-LINKEDIN-URL)
+- 💼 LinkedIn: [Add your LinkedIn URL here](https://www.linkedin.com/in/praveen-p-a75b84392?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 🐙 GitHub: [praveenanalytics](https://github.com/praveenanalytics)
 - 📧 Email: Add your professional email here
 
